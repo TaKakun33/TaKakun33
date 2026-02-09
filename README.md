@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a Informatics student at Diponegoro University. I have a strong passion for software development, specifically in Game Development.<br>I am currently focusing on learning Cyber Security,  Artificial Intelligence and seeking internship opportunities to further develop my skills.
+I am a Informatics student at Diponegoro University. I have a strong passion for software development, specifically in Game Development. I am currently focusing on learning Cyber Security,  Artificial Intelligence and seeking internship opportunities to further develop my skills.
 
 
 ## 🌐 Socials:
