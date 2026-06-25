@@ -3,7 +3,7 @@ I am a Informatics student at Universitas Diponegoro passionate about software e
 - 🔭 I’m currently working on **Degree Of Sanity (Game)**<br><br>
 - 🌱 I’m currently learning **software engineering, cybersecurity exploitation, and artificial intelligence integration.**<br><br>
 - 👨‍💻 All of my projects are available at [https://github.com/TaKakun33](https://github.com/TaKakun33)<br><br>
-- 🌐 My website [https://takakun33.github.io/TaKaWeb/](https://takakun33.github.io/TaKaWeb/)<br><br>-
+- 🌐 My website [https://takakun33.github.io/TaKaWeb/](https://takakun33.github.io/TaKaWeb/)<br><br>
 - 💬 Ask me about **C#, C++, Java, Competitive Programming, and Arch Linux setups**<br><br>
 - 📫 How to reach me **akmalkaflianan@gmail.com**<br><br>
 - 📄 Know about my experiences [https://www.linkedin.com/in/akmal-kafli-anan/](https://www.linkedin.com/in/akmal-kafli-anan/)<br><br>
